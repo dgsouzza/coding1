@@ -33,7 +33,7 @@ const menos = numero1 - numero2
 console.log(menos)
 */
 
-/*const numero1 = 15;
+/*const numero1 = 22;
 const numero2 = 5;
 const multiplicacao = numero1 * numero2
 console.log('o resultado e:' + multiplicacao)/*
